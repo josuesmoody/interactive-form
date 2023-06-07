@@ -161,7 +161,7 @@ ob_start();
 	          <span class="radio-btn"
 	            ><i class="las la-check"></i>
 	            <div class="hobbies-icon">
-	              <img src="https://nikolaarrasate.com/wp-content/uploads/2023/06/YDRAY-imagen-hombre.jpg" alt="" class="sexo" />
+	              <img src="img/hombre.png" alt="" class="sexo" />
 	              <h3>Hombre</h3>
 	            </div>
 	          </span>
@@ -172,7 +172,7 @@ ob_start();
 	          <span class="radio-btn"
 	            ><i class="las la-check"></i>
 	            <div class="hobbies-icon">
-	              <img src="https://nikolaarrasate.com/wp-content/uploads/2023/06/YDRAY-imagen-mujer.jpg" alt="" class="sexo" />
+	              <img src="img/mujer.png" alt="" class="sexo" />
 	              <h3>Mujer</h3>
 	            </div>
 	          </span>
@@ -187,7 +187,7 @@ ob_start();
 	            <span class="radio-btn"
 	              ><i class="las la-check"></i>
 	              <div class="hobbies-icon">
-	                <img src="https://nikolaarrasate.com/wp-content/uploads/2023/06/cuerpo1.png" alt="" class="" />
+	                <img src="img/cuerpo1.png" alt="" class="" />
 	                <h3>10%-12% (grasa)</h3>
 	              </div>
 	            </span>
@@ -198,7 +198,7 @@ ob_start();
 	            <span class="radio-btn"
 	              ><i class="las la-check"></i>
 	              <div class="hobbies-icon">
-	                <img src="https://nikolaarrasate.com/wp-content/uploads/2023/06/cuerpo2.png" alt="" class="" />
+	                <img src="img/cuerpo2.png" alt="" class="" />
 	                <h3>25% (grasa)</h3>
 	              </div>
 	            </span>
@@ -209,7 +209,7 @@ ob_start();
 	            <span class="radio-btn"
 	              ><i class="las la-check"></i>
 	              <div class="hobbies-icon">
-	                <img src="https://nikolaarrasate.com/wp-content/uploads/2023/06/cuerpo3.png" alt="" class="" />
+	                <img src="img/cuerpo3.png" alt="" class="" />
 	                <h3>40% (grasa)</h3>
 	              </div>
 	            </span>
