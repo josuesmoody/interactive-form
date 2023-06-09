@@ -1,4 +1,7 @@
-<html lang="en">
+function plan_de_ejercicio() {
+ob_start();
+    ?>
+<html lang="es">
 
 <head>
     <style>
@@ -4263,4 +4266,8 @@ button.es-button {
     </script>
   </body>
 </html>
+<?php
+    return ob_get_clean();
+}
+add_shortcode( 'plan_de_ejercicio_shortcode', 'plan_de_ejercicio' );
 
